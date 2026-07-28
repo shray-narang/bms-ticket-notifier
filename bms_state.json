@@ -240,19 +240,19 @@
       "price": "600.00",
       "status": "3"
     },
-    "IZOP|6536|20260730|PICTURE PERFECT": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "09:15 AM",
-      "date": "20260730",
-      "cat": "PICTURE PERFECT",
-      "price": "490.00",
-      "status": "3"
-    },
     "IZOP|6536|20260730|XTRA LEGROOM": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
       "time": "09:15 AM",
       "date": "20260730",
       "cat": "XTRA LEGROOM",
+      "price": "490.00",
+      "status": "3"
+    },
+    "IZOP|6536|20260730|PICTURE PERFECT": {
+      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
+      "time": "09:15 AM",
+      "date": "20260730",
+      "cat": "PICTURE PERFECT",
       "price": "490.00",
       "status": "3"
     },
@@ -280,19 +280,19 @@
       "price": "370.00",
       "status": "3"
     },
-    "IZOP|6537|20260730|XTRA LEGROOM": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "12:45 PM",
-      "date": "20260730",
-      "cat": "XTRA LEGROOM",
-      "price": "650.00",
-      "status": "3"
-    },
     "IZOP|6537|20260730|PICTURE PERFECT": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
       "time": "12:45 PM",
       "date": "20260730",
       "cat": "PICTURE PERFECT",
+      "price": "650.00",
+      "status": "3"
+    },
+    "IZOP|6537|20260730|XTRA LEGROOM": {
+      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
+      "time": "12:45 PM",
+      "date": "20260730",
+      "cat": "XTRA LEGROOM",
       "price": "650.00",
       "status": "3"
     },
@@ -400,19 +400,19 @@
       "price": "520.00",
       "status": "3"
     },
-    "IZOP|6540|20260730|XTRA LEGROOM": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "11:15 PM",
-      "date": "20260730",
-      "cat": "XTRA LEGROOM",
-      "price": "650.00",
-      "status": "3"
-    },
     "IZOP|6540|20260730|PICTURE PERFECT": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
       "time": "11:15 PM",
       "date": "20260730",
       "cat": "PICTURE PERFECT",
+      "price": "650.00",
+      "status": "3"
+    },
+    "IZOP|6540|20260730|XTRA LEGROOM": {
+      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
+      "time": "11:15 PM",
+      "date": "20260730",
+      "cat": "XTRA LEGROOM",
       "price": "650.00",
       "status": "3"
     },
