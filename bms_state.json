@@ -5,8 +5,8 @@
       "time": "09:45 AM",
       "date": "20260730",
       "cat": "RECLINER",
-      "price": "1500.00",
-      "status": "2"
+      "price": "1700.00",
+      "status": "1"
     },
     "PVPU|5623|20260730|PICTURE PERFECT": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -112,6 +112,14 @@
       "price": "950.00",
       "status": "1"
     },
+    "PVPU|5625|20260730|XTRA LEGROOM": {
+      "venue": "PVR IMAX with Laser, Priya: Delhi",
+      "time": "04:45 PM",
+      "date": "20260730",
+      "cat": "XTRA LEGROOM",
+      "price": "850.00",
+      "status": "2"
+    },
     "PVPU|5625|20260730|SUPERIOR": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "04:45 PM",
@@ -119,14 +127,6 @@
       "cat": "SUPERIOR",
       "price": "800.00",
       "status": "2"
-    },
-    "PVPU|5625|20260730|XTRA LEGROOM": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "04:45 PM",
-      "date": "20260730",
-      "cat": "XTRA LEGROOM",
-      "price": "750.00",
-      "status": "3"
     },
     "PVPU|5625|20260730|PRIME": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -152,14 +152,6 @@
       "price": "1700.00",
       "status": "0"
     },
-    "PVPU|5626|20260730|PICTURE PERFECT": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "08:15 PM",
-      "date": "20260730",
-      "cat": "PICTURE PERFECT",
-      "price": "1050.00",
-      "status": "0"
-    },
     "PVPU|5626|20260730|XTRA LEGROOM": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "08:15 PM",
@@ -167,6 +159,14 @@
       "cat": "XTRA LEGROOM",
       "price": "1050.00",
       "status": "1"
+    },
+    "PVPU|5626|20260730|PICTURE PERFECT": {
+      "venue": "PVR IMAX with Laser, Priya: Delhi",
+      "time": "08:15 PM",
+      "date": "20260730",
+      "cat": "PICTURE PERFECT",
+      "price": "1050.00",
+      "status": "0"
     },
     "PVPU|5626|20260730|SUPERIOR": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -181,8 +181,8 @@
       "time": "08:15 PM",
       "date": "20260730",
       "cat": "PRIME",
-      "price": "750.00",
-      "status": "3"
+      "price": "850.00",
+      "status": "2"
     },
     "PVPU|5626|20260730|CLASSIC": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -240,19 +240,19 @@
       "price": "600.00",
       "status": "3"
     },
-    "IZOP|6536|20260730|XTRA LEGROOM": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "09:15 AM",
-      "date": "20260730",
-      "cat": "XTRA LEGROOM",
-      "price": "490.00",
-      "status": "3"
-    },
     "IZOP|6536|20260730|PICTURE PERFECT": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
       "time": "09:15 AM",
       "date": "20260730",
       "cat": "PICTURE PERFECT",
+      "price": "490.00",
+      "status": "3"
+    },
+    "IZOP|6536|20260730|XTRA LEGROOM": {
+      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
+      "time": "09:15 AM",
+      "date": "20260730",
+      "cat": "XTRA LEGROOM",
       "price": "490.00",
       "status": "3"
     },
@@ -280,19 +280,19 @@
       "price": "370.00",
       "status": "3"
     },
-    "IZOP|6537|20260730|PICTURE PERFECT": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "12:45 PM",
-      "date": "20260730",
-      "cat": "PICTURE PERFECT",
-      "price": "650.00",
-      "status": "3"
-    },
     "IZOP|6537|20260730|XTRA LEGROOM": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
       "time": "12:45 PM",
       "date": "20260730",
       "cat": "XTRA LEGROOM",
+      "price": "650.00",
+      "status": "3"
+    },
+    "IZOP|6537|20260730|PICTURE PERFECT": {
+      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
+      "time": "12:45 PM",
+      "date": "20260730",
+      "cat": "PICTURE PERFECT",
       "price": "650.00",
       "status": "3"
     },
@@ -320,19 +320,19 @@
       "price": "520.00",
       "status": "3"
     },
-    "IZOP|6538|20260730|XTRA LEGROOM": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "04:15 PM",
-      "date": "20260730",
-      "cat": "XTRA LEGROOM",
-      "price": "650.00",
-      "status": "3"
-    },
     "IZOP|6538|20260730|PICTURE PERFECT": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
       "time": "04:15 PM",
       "date": "20260730",
       "cat": "PICTURE PERFECT",
+      "price": "650.00",
+      "status": "3"
+    },
+    "IZOP|6538|20260730|XTRA LEGROOM": {
+      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
+      "time": "04:15 PM",
+      "date": "20260730",
+      "cat": "XTRA LEGROOM",
       "price": "650.00",
       "status": "3"
     },
@@ -365,8 +365,8 @@
       "time": "07:45 PM",
       "date": "20260730",
       "cat": "PICTURE PERFECT",
-      "price": "730.00",
-      "status": "3"
+      "price": "840.00",
+      "status": "2"
     },
     "IZOP|6539|20260730|XTRA LEGROOM": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
@@ -400,19 +400,19 @@
       "price": "520.00",
       "status": "3"
     },
-    "IZOP|6540|20260730|PICTURE PERFECT": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "11:15 PM",
-      "date": "20260730",
-      "cat": "PICTURE PERFECT",
-      "price": "650.00",
-      "status": "3"
-    },
     "IZOP|6540|20260730|XTRA LEGROOM": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
       "time": "11:15 PM",
       "date": "20260730",
       "cat": "XTRA LEGROOM",
+      "price": "650.00",
+      "status": "3"
+    },
+    "IZOP|6540|20260730|PICTURE PERFECT": {
+      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
+      "time": "11:15 PM",
+      "date": "20260730",
+      "cat": "PICTURE PERFECT",
       "price": "650.00",
       "status": "3"
     },
@@ -442,12 +442,12 @@
     }
   },
   "dates": {
-    "20260728": "AVAILABLE",
     "20260729": "AVAILABLE",
     "20260730": "BOOKABLE",
     "20260731": "NOT_OPEN",
     "20260801": "NOT_OPEN",
     "20260802": "NOT_OPEN",
-    "20260803": "NOT_OPEN"
+    "20260803": "NOT_OPEN",
+    "20260804": "NOT_OPEN"
   }
 }
