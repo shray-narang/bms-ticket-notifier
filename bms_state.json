@@ -1,53 +1,5 @@
 {
   "shows": {
-    "PVPU|5623|20260730|RECLINER": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "09:45 AM",
-      "date": "20260730",
-      "cat": "RECLINER",
-      "price": "1700.00",
-      "status": "1"
-    },
-    "PVPU|5623|20260730|XTRA LEGROOM": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "09:45 AM",
-      "date": "20260730",
-      "cat": "XTRA LEGROOM",
-      "price": "630.00",
-      "status": "1"
-    },
-    "PVPU|5623|20260730|PICTURE PERFECT": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "09:45 AM",
-      "date": "20260730",
-      "cat": "PICTURE PERFECT",
-      "price": "630.00",
-      "status": "0"
-    },
-    "PVPU|5623|20260730|SUPERIOR": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "09:45 AM",
-      "date": "20260730",
-      "cat": "SUPERIOR",
-      "price": "570.00",
-      "status": "1"
-    },
-    "PVPU|5623|20260730|PRIME": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "09:45 AM",
-      "date": "20260730",
-      "cat": "PRIME",
-      "price": "550.00",
-      "status": "2"
-    },
-    "PVPU|5623|20260730|CLASSIC": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "09:45 AM",
-      "date": "20260730",
-      "cat": "CLASSIC",
-      "price": "500.00",
-      "status": "3"
-    },
     "PVPU|5624|20260730|RECLINER": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "01:15 PM",
@@ -70,7 +22,7 @@
       "date": "20260730",
       "cat": "PICTURE PERFECT",
       "price": "950.00",
-      "status": "0"
+      "status": "1"
     },
     "PVPU|5624|20260730|SUPERIOR": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -110,7 +62,7 @@
       "date": "20260730",
       "cat": "XTRA LEGROOM",
       "price": "950.00",
-      "status": "1"
+      "status": "0"
     },
     "PVPU|5625|20260730|PICTURE PERFECT": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -133,8 +85,8 @@
       "time": "04:45 PM",
       "date": "20260730",
       "cat": "PRIME",
-      "price": "650.00",
-      "status": "3"
+      "price": "750.00",
+      "status": "2"
     },
     "PVPU|5625|20260730|CLASSIC": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -152,19 +104,19 @@
       "price": "1700.00",
       "status": "0"
     },
-    "PVPU|5626|20260730|XTRA LEGROOM": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "08:15 PM",
-      "date": "20260730",
-      "cat": "XTRA LEGROOM",
-      "price": "1050.00",
-      "status": "1"
-    },
     "PVPU|5626|20260730|PICTURE PERFECT": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "08:15 PM",
       "date": "20260730",
       "cat": "PICTURE PERFECT",
+      "price": "1050.00",
+      "status": "1"
+    },
+    "PVPU|5626|20260730|XTRA LEGROOM": {
+      "venue": "PVR IMAX with Laser, Priya: Delhi",
+      "time": "08:15 PM",
+      "date": "20260730",
+      "cat": "XTRA LEGROOM",
       "price": "1050.00",
       "status": "1"
     },
@@ -174,7 +126,7 @@
       "date": "20260730",
       "cat": "PRIME",
       "price": "950.00",
-      "status": "2"
+      "status": "1"
     },
     "PVPU|5626|20260730|SUPERIOR": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -200,19 +152,19 @@
       "price": "1500.00",
       "status": "1"
     },
-    "PVPU|5627|20260730|PICTURE PERFECT": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "11:45 PM",
-      "date": "20260730",
-      "cat": "PICTURE PERFECT",
-      "price": "950.00",
-      "status": "1"
-    },
     "PVPU|5627|20260730|XTRA LEGROOM": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "11:45 PM",
       "date": "20260730",
       "cat": "XTRA LEGROOM",
+      "price": "950.00",
+      "status": "1"
+    },
+    "PVPU|5627|20260730|PICTURE PERFECT": {
+      "venue": "PVR IMAX with Laser, Priya: Delhi",
+      "time": "11:45 PM",
+      "date": "20260730",
+      "cat": "PICTURE PERFECT",
       "price": "950.00",
       "status": "1"
     },
@@ -222,7 +174,7 @@
       "date": "20260730",
       "cat": "SUPERIOR",
       "price": "800.00",
-      "status": "2"
+      "status": "1"
     },
     "PVPU|5627|20260730|PRIME": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -238,46 +190,6 @@
       "date": "20260730",
       "cat": "CLASSIC",
       "price": "600.00",
-      "status": "3"
-    },
-    "IZOP|6536|20260730|XTRA LEGROOM": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "09:15 AM",
-      "date": "20260730",
-      "cat": "XTRA LEGROOM",
-      "price": "490.00",
-      "status": "3"
-    },
-    "IZOP|6536|20260730|PICTURE PERFECT": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "09:15 AM",
-      "date": "20260730",
-      "cat": "PICTURE PERFECT",
-      "price": "490.00",
-      "status": "3"
-    },
-    "IZOP|6536|20260730|Royal": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "09:15 AM",
-      "date": "20260730",
-      "cat": "Royal",
-      "price": "410.00",
-      "status": "3"
-    },
-    "IZOP|6536|20260730|Club": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "09:15 AM",
-      "date": "20260730",
-      "cat": "Club",
-      "price": "390.00",
-      "status": "3"
-    },
-    "IZOP|6536|20260730|Executive": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "09:15 AM",
-      "date": "20260730",
-      "cat": "Executive",
-      "price": "370.00",
       "status": "3"
     },
     "IZOP|6537|20260730|PICTURE PERFECT": {
@@ -325,8 +237,8 @@
       "time": "04:15 PM",
       "date": "20260730",
       "cat": "PICTURE PERFECT",
-      "price": "730.00",
-      "status": "3"
+      "price": "840.00",
+      "status": "2"
     },
     "IZOP|6538|20260730|Royal": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
@@ -360,14 +272,6 @@
       "price": "520.00",
       "status": "3"
     },
-    "IZOP|6539|20260730|XTRA LEGROOM": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "07:45 PM",
-      "date": "20260730",
-      "cat": "XTRA LEGROOM",
-      "price": "840.00",
-      "status": "2"
-    },
     "IZOP|6539|20260730|PICTURE PERFECT": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
       "time": "07:45 PM",
@@ -376,13 +280,21 @@
       "price": "840.00",
       "status": "0"
     },
+    "IZOP|6539|20260730|XTRA LEGROOM": {
+      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
+      "time": "07:45 PM",
+      "date": "20260730",
+      "cat": "XTRA LEGROOM",
+      "price": "840.00",
+      "status": "1"
+    },
     "IZOP|6539|20260730|Royal": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
       "time": "07:45 PM",
       "date": "20260730",
       "cat": "Royal",
       "price": "700.00",
-      "status": "0"
+      "status": "1"
     },
     "IZOP|6539|20260730|Club": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
@@ -400,19 +312,19 @@
       "price": "520.00",
       "status": "3"
     },
-    "IZOP|6540|20260730|PICTURE PERFECT": {
-      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
-      "time": "11:15 PM",
-      "date": "20260730",
-      "cat": "PICTURE PERFECT",
-      "price": "650.00",
-      "status": "3"
-    },
     "IZOP|6540|20260730|XTRA LEGROOM": {
       "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
       "time": "11:15 PM",
       "date": "20260730",
       "cat": "XTRA LEGROOM",
+      "price": "650.00",
+      "status": "3"
+    },
+    "IZOP|6540|20260730|PICTURE PERFECT": {
+      "venue": "INOX: COCA-COLA IMAX Paras, Nehru Place, Delhi",
+      "time": "11:15 PM",
+      "date": "20260730",
+      "cat": "PICTURE PERFECT",
       "price": "650.00",
       "status": "3"
     },
